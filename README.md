@@ -1,10 +1,10 @@
 # Hello! I am Sabik!
 
-**Master’s student** Computer Science for Digital Media @ Bauhaus-Universität Weimar. 
-**Research Assistant** at Bauhaus-Institute for Infrastructure Solutions (b.is).
-**Program Tutor** for Computer Science for Digital Media & Human-Computer Interaction.
+**Master’s student** Computer Science for Digital Media @ Bauhaus-Universität Weimar.   
+**Research Assistant** at Bauhaus-Institute for Infrastructure Solutions (b.is).  
+**Program Tutor** for Computer Science for Digital Media & Human-Computer Interaction.  
 
-Game dev (Unity/C#) • Data/ML (R, Python) • Casual Cryptography enjoyer(!).  
+Game dev (Unity/C#) • Data/ML (R, Python) • Casual Cryptography enjoyer(!).    
 **Open to thesis/internship roles & working student roles.**
 
 **What I'm into**
