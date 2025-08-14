@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hello! I am Sabik!
 
-<!--
-**MubtasimSabik/MubtasimSabik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Master’s student** (CS) @ Bauhaus University Weimar. 
+**Research Assistant** at Bauhaus-Institute for Infrastructure Solutions (b.is)
+**Student Tutor** for the CS programs
 
-Here are some ideas to get you started:
+Game dev (Unity/C#) • Data/ML (R, Python) • Casual Cryptography enjoyer(!).  
+**Open to thesis/internship roles & working student roles.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm into**
+- Unity 2D/3D development (C#)
+- Game design, Game mechanics, Story writing
+- Data analysis (R, Python)
+- XR in Education Media
+  
+**Now**
+- Polishing 3 Unity prototypes for public repos
+- Restructuring my Git page
+- Tackling Cryptography Topics
+- Looking for a thesis/research internship
+- Looking for a game developer position
+- Tinkering with Godot as the next engine to learn
+
+**Tech**
+C#, Unity • Python, R • Git/GitHub • Basic Docker • C++, Octave • SQL • HTML • CSS • Javascript
+
+**Links**
+- Portfolio repo → 
+- itch.io page → https://mubtasimsabik.itch.io/
+- Email → mubtasimsabik@gmail.com
+- LinkedIn → https://www.linkedin.com/in/mubtasimsabik/
+
+
