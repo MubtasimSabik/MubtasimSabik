@@ -25,7 +25,6 @@ Game dev (Unity/C#) • Data/ML (R, Python) • Casual Cryptography enjoyer(!).
 C#, Unity • Python, R • Git/GitHub • Basic Docker • C++, Octave • SQL • HTML • CSS • Javascript
 
 **Links**
-- Portfolio repo → 
 - itch.io page → https://mubtasimsabik.itch.io/
 - Email → mubtasimsabik@gmail.com
 - LinkedIn → https://www.linkedin.com/in/mubtasimsabik/
