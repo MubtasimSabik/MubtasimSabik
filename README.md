@@ -21,7 +21,7 @@ Game dev (Unity/C#) • Data/ML (R, Python) • Casual Cryptography enjoyer(!).
 - Looking for a game developer position
 - Tinkering with Godot as the next engine to learn
 
-**Tech**
+**Tech**..
 • C#, Unity • Python, R • Git/GitHub • Basic Docker • C++ • Objective-C, Octave • SQL • HTML • CSS • Javascript
 
 **Links**
