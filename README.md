@@ -1,4 +1,4 @@
-# Hello! I am Sabik!
+# Hello! I am Sabik.
 
 **Master’s student** Computer Science for Digital Media @ Bauhaus-Universität Weimar.   
 **Research Assistant** at Bauhaus-Institute for Infrastructure Solutions (b.is).  
