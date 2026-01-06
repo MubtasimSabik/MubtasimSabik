@@ -14,11 +14,9 @@ Game dev (Unity/C#) • Data/ML (R, Python) • Casual Cryptography enjoyer(!).
 - XR in Education Media
   
 **Now**
-- Polishing 3 Unity prototypes for public repos
-- Restructuring my Git page
-- Tackling Cryptography Topics
 - Looking for a thesis/research internship
 - Looking for a game developer position
+- Tinkering with a web-based games with Typescript and PixiJS
 - Tinkering with Godot as the next engine to learn
 
 **Tech**
