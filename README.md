@@ -16,6 +16,7 @@ Game dev (Unity/C#) • Data/ML (R, Python) • Casual Cryptography enjoyer(!).
 **Now**
 - Looking for a thesis/research internship
 - Looking for a game developer position
+- Writing Python code with QSDsan library
 - Tinkering with a web-based games with Typescript and PixiJS
 - Tinkering with Godot as the next engine to learn
 
