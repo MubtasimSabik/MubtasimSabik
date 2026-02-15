@@ -18,7 +18,7 @@ Game dev (Unity/C#) • Data/ML (R, Python) • Casual Cryptography enjoyer.
 - Working as an intern @ [Playinsightstudios](https://playinsightstudios.com/).
 - Doing initial work on my master's thesis.
 - Taking tutorial classes for Introduction to Modern Cryptography course.
-- Writing Python code with QSDsan library
+- Writing Python code with QSDsan library.
 - Designing a game focusing on recycling.
 
 **Tech**
