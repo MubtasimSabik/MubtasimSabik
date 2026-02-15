@@ -1,12 +1,12 @@
 # Hello! I am Sabik.
 
 **Master’s student** Computer Science for Digital Media @ Bauhaus-Universität Weimar.   
-**Research Assistant** at Bauhaus-Institute for Infrastructure Solutions (b.is).  
+**Research Assistant** @ Bauhaus-Institute for Infrastructure Solutions (b.is).  
 **Program Tutor** for Computer Science for Digital Media & Human-Computer Interaction.  
-**Student Tutor** for Introduction to Modern Cryptography at Information Security Chair.
+**Student Tutor** for Introduction to Modern Cryptography @ Information Security Chair.
 
 Game dev (Unity/C#) • Data/ML (R, Python) • Casual Cryptography enjoyer.    
-**Open to thesis/internship roles & working student roles.**
+**Open to game development collaboration roles.**
 
 **What I'm into**
 - Unity 2D/3D development (C#)
