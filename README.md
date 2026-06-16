@@ -1,12 +1,11 @@
 # Hello! I am Sabik.
 
 **Master’s student** Computer Science for Digital Media @ Bauhaus-Universität Weimar.   
-**Research Assistant** @ Bauhaus-Institute for Infrastructure Solutions (b.is).  
 **Program Tutor** for Computer Science for Digital Media & Human-Computer Interaction.  
 **Student Tutor** for Introduction to Modern Cryptography @ Information Security Chair.
 
 Game dev (Unity/C#) • Data/ML (R, Python) • Casual Cryptography enjoyer.    
-**Open to game development collaboration roles.**
+**Open to game development collaboration roles from January 2027.**
 
 **What I'm into**
 - Unity 2D/3D development (C#)
@@ -15,10 +14,9 @@ Game dev (Unity/C#) • Data/ML (R, Python) • Casual Cryptography enjoyer.
 - Innovation in Education Media
   
 **Now**
-- Working as an intern @ [Playinsightstudios](https://playinsightstudios.com/).
-- Doing initial work on my master's thesis.
+- Working as a Programmer @ Enchoi Games.
+- Working on my master's thesis.
 - Taking tutorial classes for Introduction to Modern Cryptography course.
-- Writing Python code with QSDsan library.
 - Designing a game focusing on recycling.
 
 **Tech**
@@ -28,5 +26,3 @@ Game dev (Unity/C#) • Data/ML (R, Python) • Casual Cryptography enjoyer.
 - itch.io page → https://mubtasimsabik.itch.io/
 - Email → mubtasimsabik@gmail.com
 - LinkedIn → https://www.linkedin.com/in/mubtasimsabik/
-
-
