@@ -17,7 +17,7 @@ Game dev (Unity/C#) • Data/ML (R, Python) • Simulation Enthusiast • Casual
 - Designing a game focused on recycling.
 
 **Tech**
- • C#, Unity • Python, R • Basic Docker • C++ • Objective-C, Octave • SQL • HTML • CSS • Javascript 
+ • C#, Unity • Python, R • Basic Docker • C++ • Objective-C, Octave • SQL • HTML • CSS • JavaScript • TypeScript
 
 **Links**
 - itch.io page → https://mubtasimsabik.itch.io/
