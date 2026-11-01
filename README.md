@@ -1,9 +1,8 @@
 # Hello! I am Sabik.
 
 **Master’s student** Computer Science for Digital Media @ Bauhaus-Universität Weimar.   
-**Program Tutor** for Computer Science for Digital Media & Human-Computer Interaction.  
 
-Game dev (Unity/C#) • Data/ML (R, Python) • Casual Cryptography enjoyer.    
+Game dev (Unity/C#) • Data/ML (R, Python) • Simulation Enthusiast • Casual Cryptography enjoyer.    
 **Open to game development collaboration roles.**
 
 **What I'm into**
