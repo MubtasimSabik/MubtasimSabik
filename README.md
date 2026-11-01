@@ -2,7 +2,8 @@
 
 **Master’s student** Computer Science for Digital Media @ Bauhaus-Universität Weimar.   
 
-Game dev (Unity/C#) • Data/ML (R, Python) • Simulation Enthusiast • Casual Cryptography enjoyer.    
+Game dev (Unity/C#) • Data/ML (R, Python) • Simulation Enthusiast • Casual Cryptography enjoyer. 
+
 **Open to game development collaboration roles.**
 
 **What I'm into**
